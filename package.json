@@ -1,8 +1,8 @@
 {
   "name": "emotion-helper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "👩‍🎤 Helper functions for emotion",
-  "main": "src/index.ts",
+  "main": "dist/index.js",
   "repository": "git@github.com:minodisk/emotion-helper.git",
   "author": "Daisuke Mino <daisuke.mino@gmail.com>",
   "license": "Apache-2",

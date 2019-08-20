@@ -1,4 +1,3 @@
-export * from "./numeric";
 export * from "./unit";
 export * from "./color";
 

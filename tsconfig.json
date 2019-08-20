@@ -9,7 +9,7 @@
     "lib": ["dom", "esnext"],
     "baseUrl": "./",
     "typeRoots": ["@types", "node_modules/@types"],
-    "outDir": "dist",
+    "outDir": "lib",
 
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,

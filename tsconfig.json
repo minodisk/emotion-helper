@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "sourceMap": true,
+
+    "lib": ["dom", "esnext"],
+    "baseUrl": "./",
+    "typeRoots": ["@types", "node_modules/@types"],
+    "outDir": "dist",
+
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "strict": true,
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules"]
+}

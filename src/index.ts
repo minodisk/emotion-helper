@@ -1,5 +1,6 @@
 export * from "./unit";
 export * from "./color";
+export * from "./shorthand";
 
 export const url = (url: string): string => `url(${url})`;
 

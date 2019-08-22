@@ -12,5 +12,8 @@
   "license": "Apache-2",
   "devDependencies": {
     "typescript": "^3.5.3"
+  },
+  "dependencies": {
+    "csstype": "^2.6.6"
   }
 }
